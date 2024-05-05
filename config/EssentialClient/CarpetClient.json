@@ -2822,6 +2822,13 @@
     "default": false
   },
   {
+    "name": "natualSpawningUse13HeightmapExtra",
+    "type": "Boolean",
+    "description": "Ignore piston block, slime block, honey block when calculating the modified heightmap in rule natualSpawningUse13Heightmap\n§3From: TISUnion/Carpet-TIS-Addition",
+    "extras": "It's designed to keep the behavior unchanged from pre-1.13, but might introduce some unintended usage abuse ",
+    "default": false
+  },
+  {
     "name": "observerDelay",
     "type": "Integer",
     "description": "Change the delay length of observers (how long it takes to turn on)\n§3From: fxmorin/WeirdAddons",
@@ -5032,6 +5039,13 @@
     "description": "Max Wandering Trader spawn chance\n§3From: jsorrell/CarpetSkyAdditions",
     "extras": "This starts at 0.025 and increases by 0.025 each time a trader spawn fails until the max chance is reached. ",
     "default": 0.075
+  },
+  {
+    "name": "shulkerBoxContentDropBackport",
+    "type": "Boolean",
+    "description": "Backport the feature that item entity of skulker box drops all of its contents when the item entity is damaged to die\n§3From: TISUnion/Carpet-TIS-Addition",
+    "extras": "This feature is introduced to vanilla Minecraft in mc1.17 ",
+    "default": false
   },
   {
     "name": "elderGuardianSpawnOnThunder",
@@ -7874,6 +7888,13 @@
     "type": "Boolean",
     "description": "Allows you to use characters such as subsections in the game.\n§3From: The-Cat-Town-Craft/Carpet-TCTC-Addition",
     "extras": null,
+    "default": false
+  },
+  {
+    "name": "natualSpawningUse13Heightmap",
+    "type": "Boolean",
+    "description": "Change the upper limit of the Y value during the initial coordinate selection in natural mob spawning, to the highest block that blocks light at that XZ position\n§3From: TISUnion/Carpet-TIS-Addition",
+    "extras": "Basically, this rule reverts the use of the heightmap during natural spawning back to version 1.13 and earlier Note: This will slightly increase lag during the natual spawning phase See also: rule natualSpawningUse13HeightmapExtra ",
     "default": false
   },
   {
