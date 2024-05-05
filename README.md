@@ -143,8 +143,3 @@ Modpack that improves vanilla minecraft. Adds various functions that improve the
 
 ## Info
 *Not available in the lite version 
-
-## Manual Instalation
-
-1. Clone this repository using 'git clone https://github.com/Son1kXDev/vanilaio.git'
-2. Copy 'mods' folder and 'resourcepacks' folder to your '.minecraft' folder
