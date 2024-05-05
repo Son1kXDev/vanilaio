@@ -1,0 +1,44 @@
+{
+  "easierchests.config.enablecolumnbuttons": {
+    "key": "easierchests.config.enablecolumnbuttons",
+    "toolTip": "easierchests.config.tt.enablecolumnbuttons",
+    "value": true,
+    "defaultValue": true
+  },
+  "easierchests.config.halfsize": {
+    "key": "easierchests.config.halfsize",
+    "toolTip": "easierchests.config.tt.halfsize",
+    "value": true,
+    "defaultValue": false
+  },
+  "easierchests.config.enablesearch": {
+    "key": "easierchests.config.enablesearch",
+    "toolTip": "easierchests.config.tt.enablesearch",
+    "value": true,
+    "defaultValue": true
+  },
+  "easierchests.config.enablerowbuttons": {
+    "key": "easierchests.config.enablerowbuttons",
+    "toolTip": "easierchests.config.tt.enablerowbuttons",
+    "value": true,
+    "defaultValue": true
+  },
+  "easierchests.config.highlight": {
+    "key": "easierchests.config.highlight",
+    "toolTip": "easierchests.config.tt.highlight",
+    "value": "4000ff00",
+    "defaultValue": "4000ff00"
+  },
+  "easierchests.config.transparent": {
+    "key": "easierchests.config.transparent",
+    "toolTip": "easierchests.config.tt.transparent",
+    "value": true,
+    "defaultValue": true
+  },
+  "easierchests.config.largechests": {
+    "key": "easierchests.config.largechests",
+    "toolTip": "easierchests.config.tt.largechests",
+    "value": false,
+    "defaultValue": false
+  }
+}
