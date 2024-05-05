@@ -1,0 +1,32 @@
+{
+	gui: {
+		autofocus_search_bar: true,
+		show_autocomplete: true,
+		autocomplete_shows_regular_names: true,
+		show_resize_widget: true,
+		grid_width: 12,
+		grid_height: 12,
+		hide_memory_ids: true,
+		item_list_text_scale: 0,
+		inventory_button: {
+			enabled: true,
+			show_extra: true,
+			show_export: false
+		}
+	},
+	rendering: {
+		display_container_names: true,
+		name_range: 12
+	},
+	debug: {
+		show_dev_hud: false
+	},
+	storage: {
+		readable_json_memories: false,
+		storage_backend: "NBT"
+	},
+	compatibility: {
+		shulker_box_tooltip_integration: true,
+		wthit_integration: true
+	}
+}

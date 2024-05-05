@@ -1,4 +1,19 @@
-crash-reports
-datapacks
-shaderpacks
+/crash-reports/
+/datapacks/
+/shaderpacks/
+/.fabric/
+/logs/
+/essential/
+
+/config/inventoryprofilesnext
+/config/litematica
+/config/worldedit/sessions/
+/config/worldedit/.archive-unpack
+/config/WildfireGender
+/config/voicechat
+/config/stendhal/signs
+/config/continuebutton
+
 profile.json
+mods/Essential Dependencies.jar
+

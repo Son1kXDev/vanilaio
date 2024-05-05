@@ -1,0 +1,8 @@
+{
+  "enableOnIp": [
+    "46.8.18.44:25787"
+  ],
+  "disableOnIp": [
+    "PJTEST93ew.aternos.me:33325"
+  ]
+}
