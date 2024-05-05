@@ -15,7 +15,7 @@ reducedDebugInfo:false
 showSubtitles:true
 directionalAudio:true
 touchscreen:false
-fullscreen:false
+fullscreen:true
 bobView:true
 toggleCrouch:false
 toggleSprint:false
@@ -70,14 +70,14 @@ useNativeTransport:true
 mainHand:"right"
 attackIndicator:1
 narrator:0
-tutorialStep:movement
+tutorialStep:punch_tree
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
 skipMultiplayerWarning:true
 skipRealms32bitWarning:false
 hideMatchedNames:true
-joinedFirstServer:false
+joinedFirstServer:true
 hideBundleTutorial:false
 syncChunkWrites:true
 showAutosaveIndicator:true
@@ -153,7 +153,7 @@ key_key.presencefootsteps.settings:key.keyboard.f10
 key_key.presencefootsteps.toggle:key.keyboard.unknown
 key_key.showmeyourskin.open_settings:key.keyboard.k
 key_key.showmeyourskin.global_toggle:key.keyboard.j
-key_key.push_to_talk:key.keyboard.unknown
+key_key.push_to_talk:key.mouse.5
 key_key.whisper:key.keyboard.unknown
 key_key.mute_microphone:key.keyboard.left.alt
 key_key.disable_voice_chat:key.keyboard.end

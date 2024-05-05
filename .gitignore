@@ -29,3 +29,7 @@ config/languagereload.json
 
 
 
+/chesttracker
+servers.dat
+servers.dat_old
+servers.essential.dat
