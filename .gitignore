@@ -33,3 +33,5 @@ config/languagereload.json
 servers.dat
 servers.dat_old
 servers.essential.dat
+/saves
+usercache.json
