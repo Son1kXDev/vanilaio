@@ -35,3 +35,8 @@ servers.dat_old
 servers.essential.dat
 /saves
 usercache.json
+/resourcepacks
+/screenshots
+data/fabricDefaultResourcePacks.dat
+/config/rprenames
+options.txt
